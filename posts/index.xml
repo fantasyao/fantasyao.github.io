@@ -5,15 +5,29 @@
     <link>https://fantasyao.github.io/posts/</link>
     <description>Recent content in Posts on 我自己的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2024 23:39:40 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 28 Jan 2024 23:42:40 +0800</lastBuildDate>
     <atom:link href="https://fantasyao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇帖子</title>
-      <link>https://fantasyao.github.io/2024/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B8%96%E5%AD%90/</link>
+      <title>第三篇帖子</title>
+      <link>https://fantasyao.github.io/posts/new-post/index3/</link>
+      <pubDate>Sun, 28 Jan 2024 23:42:40 +0800</pubDate>
+      <guid>https://fantasyao.github.io/posts/new-post/index3/</guid>
+      <description>&#xA;第三篇帖子 高亮测试&#xA;图片需要放在img中，然后使用相对路径：![](/img/pin1.png)&#xA;your highlighted text </description>
+    </item>
+    <item>
+      <title>tranquilpeak主题操作汇总</title>
+      <link>https://fantasyao.github.io/posts/new-post/index2/</link>
       <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
-      <guid>https://fantasyao.github.io/2024/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B8%96%E5%AD%90/</guid>
-      <description>美美早上好 这是我弄了一晚上之后的结果，终于初步搞定了&#xA;图片 咚咚咚 </description>
+      <guid>https://fantasyao.github.io/posts/new-post/index2/</guid>
+      <description>This is a custom summary and does &lt;em&gt;not&lt;/em&gt; appear in the post.</description>
+    </item>
+    <item>
+      <title>第一篇帖子</title>
+      <link>https://fantasyao.github.io/posts/new-post/index1/</link>
+      <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
+      <guid>https://fantasyao.github.io/posts/new-post/index1/</guid>
+      <description>初次见面.</description>
     </item>
   </channel>
 </rss>

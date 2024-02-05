@@ -6,6 +6,28 @@
     <description>Recent content on 我自己的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sun, 28 Jan 2024 23:42:40 +0800</lastBuildDate>
     <atom:link href="https://fantasyao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第三篇帖子</title>
+      <link>https://fantasyao.github.io/posts/new-post/index3/</link>
+      <pubDate>Sun, 28 Jan 2024 23:42:40 +0800</pubDate>
+      <guid>https://fantasyao.github.io/posts/new-post/index3/</guid>
+      <description>&#xA;第三篇帖子 高亮测试&#xA;图片需要放在img中，然后使用相对路径：![](/img/pin1.png)&#xA;your highlighted text </description>
+    </item>
+    <item>
+      <title>tranquilpeak主题操作汇总</title>
+      <link>https://fantasyao.github.io/posts/new-post/index2/</link>
+      <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
+      <guid>https://fantasyao.github.io/posts/new-post/index2/</guid>
+      <description>This is a custom summary and does &lt;em&gt;not&lt;/em&gt; appear in the post.</description>
+    </item>
+    <item>
+      <title>第一篇帖子</title>
+      <link>https://fantasyao.github.io/posts/new-post/index1/</link>
+      <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
+      <guid>https://fantasyao.github.io/posts/new-post/index1/</guid>
+      <description>初次见面.</description>
+    </item>
   </channel>
 </rss>
