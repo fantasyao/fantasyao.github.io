@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我自己的博客</title>
+    <title>Fantasyao的博客</title>
     <link>https://fantasyao.github.io/</link>
-    <description>Recent content on 我自己的博客</description>
+    <description>Recent content on Fantasyao的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 28 Jan 2024 23:42:40 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://fantasyao.github.io/posts/new-post/index3/</link>
       <pubDate>Sun, 28 Jan 2024 23:42:40 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/new-post/index3/</guid>
-      <description>&#xA;第三篇帖子 高亮测试&#xA;图片需要放在img中，然后使用相对路径：![](/img/pin1.png)&#xA;your highlighted text </description>
+      <description>&#xA;第三篇帖子 高亮测试&#xA;图片需要放在static目录下的img中，然后使用相对路径：![](/img/pin1.png)&#xA;your highlighted text </description>
     </item>
     <item>
       <title>tranquilpeak主题操作汇总</title>
