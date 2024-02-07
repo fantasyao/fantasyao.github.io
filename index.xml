@@ -19,28 +19,7 @@
       <pubDate>Tue, 06 Feb 2024 13:27:38 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9/</guid>
       <description>待办事项：
-添加评论区 将博客的图片，靠左边展示. 添加首页的个人链接分享方式 优化排序，以时间倒序排序 更新;是在顶部的yml中，加入weight就可以强制排序了 &amp;ndash;已完成 </description>
-    </item>
-    <item>
-      <title>Features / Mods</title>
-      <link>https://fantasyao.github.io/posts/papermod/papermod-features/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/papermod/papermod-features/</guid>
-      <description>Learn About All Features in PaperMod</description>
-    </item>
-    <item>
-      <title>Install / Update PaperMod</title>
-      <link>https://fantasyao.github.io/posts/papermod/papermod-installation/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/papermod/papermod-installation/</guid>
-      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide For L2</title>
-      <link>https://fantasyao.github.io/posts/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/markdown-syntax.fr/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+添加评论区 将博客的图片，靠左边展示. 添加首页的个人链接分享方式 优化排序，以时间倒序排序 更新;是在顶部的yml中，加入weight就可以强制排序了 &amp;ndash;已完成 清理了草稿 </description>
     </item>
     <item>
       <title>其他的一些知识点</title>
@@ -65,41 +44,6 @@ import os print(&amp;#34;hello world&amp;#34;) if i = 0: print(&amp;#34;yes&amp;
       <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/new-post/index1/</guid>
       <description>初次见面.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://fantasyao.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/markdown-syntax/</guid>
-      <description>11Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>https://fantasyao.github.io/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://fantasyao.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://fantasyao.github.io/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://fantasyao.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
     </item>
   </channel>
 </rss>
