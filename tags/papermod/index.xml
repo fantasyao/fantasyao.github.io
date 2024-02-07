@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PaperMod on 自由啊</title>
+    <link>https://fantasyao.github.io/tags/papermod/</link>
+    <description>Recent content in PaperMod on 自由啊</description>
+    <image>
+      <title>自由啊</title>
+      <url>https://fantasyao.github.io/images/papermod-cover.png</url>
+      <link>https://fantasyao.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fantasyao.github.io/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features / Mods</title>
+      <link>https://fantasyao.github.io/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fantasyao.github.io/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>Install / Update PaperMod</title>
+      <link>https://fantasyao.github.io/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fantasyao.github.io/posts/papermod/papermod-installation/</guid>
+      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+  </channel>
+</rss>

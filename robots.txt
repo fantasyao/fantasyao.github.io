@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fantasyao.github.io/sitemap.xml

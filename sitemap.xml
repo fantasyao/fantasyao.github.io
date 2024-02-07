@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fantasyao.github.io/</loc>
-    <lastmod>2024-01-28T23:42:40+08:00</lastmod>
+    <loc>https://fantasyao.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9/</loc>
+    <lastmod>2024-02-06T13:27:38+08:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/papermod/papermod-features/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/papermod/papermod-installation/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/markdown-syntax.fr/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantasyao.github.io/posts/</loc>
-    <lastmod>2024-01-28T23:42:40+08:00</lastmod>
+    <lastmod>2024-02-06T13:27:38+08:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/</loc>
+    <lastmod>2024-02-06T13:27:38+08:00</lastmod>
   </url><url>
     <loc>https://fantasyao.github.io/posts/new-post/index3/</loc>
     <lastmod>2024-01-28T23:42:40+08:00</lastmod>
@@ -17,10 +29,87 @@
     <loc>https://fantasyao.github.io/posts/new-post/index1/</loc>
     <lastmod>2024-01-28T23:39:40+08:00</lastmod>
   </url><url>
-    <loc>https://fantasyao.github.io/archives/</loc>
+    <loc>https://fantasyao.github.io/tags/docs/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantasyao.github.io/categories/</loc>
+    <loc>https://fantasyao.github.io/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/series/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/series/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantasyao.github.io/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/code/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/code_syntax/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/gist/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/syntax/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/posts/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fantasyao.github.io/archives/</loc>
+  </url><url>
+    <loc>https://fantasyao.github.io/archives.fr/</loc>
+  </url><url>
+    <loc>https://fantasyao.github.io/search/</loc>
+  </url><url>
+    <loc>https://fantasyao.github.io/search.fr/</loc>
   </url>
 </urlset>
