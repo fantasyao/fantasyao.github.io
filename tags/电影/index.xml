@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 青云的Blog</title>
-    <link>https://fantasyao.github.io/posts/</link>
-    <description>Recent content in Posts on 青云的Blog</description>
+    <title>电影 on 青云的Blog</title>
+    <link>https://fantasyao.github.io/tags/%E7%94%B5%E5%BD%B1/</link>
+    <description>Recent content in 电影 on 青云的Blog</description>
     <image>
       <title>青云的Blog</title>
       <url>https://fantasyao.github.io/images/papermod-cover.png</url>
@@ -12,15 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 14 Feb 2024 22:50:10 +0800</lastBuildDate>
-    <atom:link href="https://fantasyao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>待办事项</title>
-      <link>https://fantasyao.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9/</link>
-      <pubDate>Tue, 06 Feb 2024 13:27:38 +0800</pubDate>
-      <guid>https://fantasyao.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9/</guid>
-      <description>待办事项：
-添加评论区 将博客的图片，靠左边展示. 添加首页的个人链接分享方式 优化排序，以时间倒序排序 更新;是在顶部的yml中，加入weight就可以强制排序了 &amp;ndash;已完成 清理了草稿 清理了head.html的页面的integrity </description>
-    </item>
+    <atom:link href="https://fantasyao.github.io/tags/%E7%94%B5%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023年的观影记录</title>
       <link>https://fantasyao.github.io/posts/2023%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</link>
@@ -84,30 +76,6 @@
 《银翼杀手2019》10.8 末尾的台词好美
 《银翼杀手》2022-2049 10.11 都希望自己是被选中的那个人，可到头来发现不是，又该如何自处呢？
 《鬼灭之刃·无限列车》10.15 大哥真是好大哥</description>
-    </item>
-    <item>
-      <title>连接wifi后图片加载缓慢的处理办法</title>
-      <link>https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/</link>
-      <pubDate>Tue, 13 Feb 2024 20:18:05 +0800</pubDate>
-      <guid>https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/</guid>
-      <description>最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。
-方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。
-附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了
-手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 </description>
-    </item>
-    <item>
-      <title>tranquilpeak主题操作汇总</title>
-      <link>https://fantasyao.github.io/posts/new-post/tranquilpeak%E4%B8%BB%E9%A2%98%E6%93%8D%E4%BD%9C%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
-      <guid>https://fantasyao.github.io/posts/new-post/tranquilpeak%E4%B8%BB%E9%A2%98%E6%93%8D%E4%BD%9C%E6%B1%87%E6%80%BB/</guid>
-      <description>This is a custom summary and does &lt;em&gt;not&lt;/em&gt; appear in the post.</description>
-    </item>
-    <item>
-      <title>第一篇帖子</title>
-      <link>https://fantasyao.github.io/posts/new-post/index1/</link>
-      <pubDate>Sun, 28 Jan 2024 23:39:40 +0800</pubDate>
-      <guid>https://fantasyao.github.io/posts/new-post/index1/</guid>
-      <description>初次见面.</description>
     </item>
   </channel>
 </rss>
