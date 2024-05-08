@@ -14,50 +14,42 @@
     <lastBuildDate>Sun, 24 Mar 2024 19:15:20 +0800</lastBuildDate>
     <atom:link href="https://fantasyao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Listary的网络搜索技巧</title>
+      <title>listary 网络搜索技巧</title>
       <link>https://fantasyao.github.io/posts/listary%E7%9A%84%E4%B8%80%E4%B8%AA%E6%8A%80%E5%B7%A7/</link>
       <pubDate>Sun, 24 Mar 2024 19:15:20 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/listary%E7%9A%84%E4%B8%80%E4%B8%AA%E6%8A%80%E5%B7%A7/</guid>
-      <description>Listary 是个 windows 端的快捷启动软件，支持在任意界面，双击 ctrl 键，呼出一个输入框，对本地文件进行搜索，同时也支持网络搜索。
-在使用 google网络搜索时，关键字默认是 gg。我后面改为了 g，但是由于我使用的是中文输入法，有时候在中文状态下，输入 g 以后，输出的是中文拼音： 这种情况下，就得删除汉字后重新输入，无法保证稳定触发网络搜索。
-最近我想到个办法，直接把关键词设置为空格（一个空格就行）。
-如此，启动 listary 的网络搜索的按键顺序就变为：双击 ctrl，呼出输入框，然后双击空格，就可以开始网络搜索了。
-2024年3月21日 10:02:08</description>
+      <description>listary 网络搜索技巧</description>
     </item>
     <item>
       <title>省钱相关大集合</title>
       <link>https://fantasyao.github.io/posts/%E7%9C%81%E9%92%B1%E7%9B%B8%E5%85%B3%E5%A4%A7%E9%9B%86%E5%90%88/</link>
       <pubDate>Sun, 03 Mar 2024 15:53:52 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/%E7%9C%81%E9%92%B1%E7%9B%B8%E5%85%B3%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
-      <description>这些年来，或多或少积累了些省钱的小窍门，由于以前是分散记录在各个不同的笔记中，特此集中记录下，如果能顺便帮助到读者，那自然是更好不过了。
-app 会员 网易云 app 的年费黑胶 vip 会员，可以去闲鱼上直接购买。闲鱼上的价格是 50 元左右，网易云上是158连续包年。 迅雷的年费会员也是同样的道理，迅雷上是129，闲鱼上就只要88。 B 站的哔哩哔哩大会员，可以在每年的萌节（10月1日-10月10日）购买，萌节的大会员，基本上是98元可以买1年+6个月，平时的大会员是148元一年。 实体相关 必胜客的披萨，也可以在闲鱼上购买，68元的只要30多元，具体的步骤也很简单，支持去店里，也支持外卖。 一些旧书，可以在 孔夫子旧书网 上购买，我的大学时期的教材，都是在孔夫子上购买的，价格是原版的1-2折。日常看的书籍，我是在多抓鱼上购买，也基本是1-2折。 网购相关 返利 大家在淘宝、京东购物时，可以使用返利类的 app 进行返利，这是合法的，不用担心。因为返利的本质其实是淘宝的某些商铺，为了促销，就会请销售人员去宣传，然后给销售人员一个返利的链接。大家通过销售人员的链接购买了商品，销售就会获得返利，商品也借此获得了更大的宣传，所以当我们使用【返利类 app】时，就相当于咱们是淘宝的官方销售人员，所以会有内部折扣，我是使用的【快鸟返利】，方法也很简单，在商品页，点击右上角-分享-复制链接，然后打开快鸟 app，就会有提示，点进去就会展示商品的返利金额，然后下单就可以了，一般金额是每月一结。我用了大概有3年多了，也基本返利了几百块。 京东以旧换新 当在京东购买大型家电时，会有以旧换新，补贴5%-10%的情况，如下图，价格从3998，变为了3763元。 京东购物界面当选择了以旧换新后，就需要选择更换的家电，品类很多：
-选择旧家电界面如果我们家里没有足够的旧家电的话，也不用担心。
-重点来了： 【以旧换新】这一步，也可以在闲鱼上搞定！（闲鱼真的万能） 在闲鱼搜索【京东以旧换新】，就会有很多商家,基本只花60元左右，跟着他们的操作来，半小时搞定，它都不需要把旧家电送到你家里，貌似是直接在他们的后台系统里操作就成功了。然后京东上新家电就会正常开始配送了。假如你买个5000元的电视，就相当于你只花了60元，就可以便宜500元。
-写在最后 上述的方法，都是笔者在过去尝试过的，所以记录上来供大家参考，如有过时，还请大家见谅。</description>
+      <description>省钱相关大集合</description>
     </item>
     <item>
-      <title>2024年的观影记录</title>
+      <title>2024 movies</title>
       <link>https://fantasyao.github.io/posts/new-post/2024%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Thu, 15 Feb 2024 22:22:10 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/new-post/2024%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</guid>
       <description>持续更新中&amp;hellip;</description>
     </item>
     <item>
-      <title>2023年的观影记录</title>
+      <title>2023 movies</title>
       <link>https://fantasyao.github.io/posts/2023%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Wed, 14 Feb 2024 22:50:10 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/2023%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</guid>
-      <description>2023年看过的作品合集记录</description>
+      <description>2023年的观影记录</description>
     </item>
     <item>
-      <title>2022年的观影记录</title>
+      <title>2022 movies</title>
       <link>https://fantasyao.github.io/posts/2022%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Wed, 14 Feb 2024 22:22:10 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/2022%E5%B9%B4%E7%9A%84%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95/</guid>
       <description>2022年看过的作品合集记录</description>
     </item>
     <item>
-      <title>2021年看的电影</title>
+      <title>2021 movies</title>
       <link>https://fantasyao.github.io/posts/2021%E5%B9%B4%E7%9C%8B%E7%9A%84%E7%94%B5%E5%BD%B1/</link>
       <pubDate>Wed, 14 Feb 2024 13:28:34 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/2021%E5%B9%B4%E7%9C%8B%E7%9A%84%E7%94%B5%E5%BD%B1/</guid>
@@ -103,14 +95,11 @@ app 会员 网易云 app 的年费黑胶 vip 会员，可以去闲鱼上直接�
 《乒乓》9.11 互相为彼此的守护</description>
     </item>
     <item>
-      <title>连接wifi后图片加载缓慢的处理办法</title>
+      <title>image load slow while connect wifi </title>
       <link>https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/</link>
       <pubDate>Tue, 13 Feb 2024 20:18:05 +0800</pubDate>
       <guid>https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/</guid>
-      <description>最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。
-方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。
-附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了
-手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 </description>
+      <description>连接wifi后图片加载缓慢</description>
     </item>
     <item>
       <title>第一篇blog</title>

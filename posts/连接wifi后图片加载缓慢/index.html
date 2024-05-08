@@ -5,12 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>连接wifi后图片加载缓慢的处理办法 | 青云的Blog</title>
-<meta name="keywords" content="经验">
-<meta name="description" content="最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。
-方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。
-附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了
-手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 ">
+<title>image load slow while connect wifi  | 青云的Blog</title>
+<meta name="keywords" content="wifi, image">
+<meta name="description" content="连接wifi后图片加载缓慢">
 <meta name="author" content="Fantasyao">
 <link rel="canonical" href="https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.c1f9d32695ebe78fc38cf168da90edcf1a7f89bcbe07592884d1d858f7f6a7b5.css" integrity="" rel="preload stylesheet" as="style">
@@ -77,11 +74,8 @@
    }
  </style>
 </head>
-<meta property="og:title" content="连接wifi后图片加载缓慢的处理办法" />
-<meta property="og:description" content="最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。
-方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。
-附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了
-手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 " />
+<meta property="og:title" content="image load slow while connect wifi " />
+<meta property="og:description" content="连接wifi后图片加载缓慢" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/" /><meta property="og:image" content="https://fantasyao.github.io/images/papermod-cover.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2024-02-13T20:18:05+08:00" />
@@ -90,11 +84,8 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://fantasyao.github.io/images/papermod-cover.png"/>
 
-<meta name="twitter:title" content="连接wifi后图片加载缓慢的处理办法"/>
-<meta name="twitter:description" content="最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。
-方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。
-附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了
-手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 "/>
+<meta name="twitter:title" content="image load slow while connect wifi "/>
+<meta name="twitter:description" content="连接wifi后图片加载缓慢"/>
 
 
 <script type="application/ld+json">
@@ -111,7 +102,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "连接wifi后图片加载缓慢的处理办法",
+      "name": "image load slow while connect wifi ",
       "item": "https://fantasyao.github.io/posts/%E8%BF%9E%E6%8E%A5wifi%E5%90%8E%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E7%BC%93%E6%85%A2/"
     }
   ]
@@ -121,11 +112,11 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "连接wifi后图片加载缓慢的处理办法",
-  "name": "连接wifi后图片加载缓慢的处理办法",
-  "description": "最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。\n方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。\n附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了\n手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 ",
+  "headline": "image load slow while connect wifi ",
+  "name": "image load slow while connect wifi ",
+  "description": "连接wifi后图片加载缓慢",
   "keywords": [
-    "经验"
+    "wifi", "image"
   ],
   "articleBody": "最近连接家里的wifi后，浏览小红书和即刻app的时候，经常出现图片加载缓慢的问题，但是使用流量就很快就加载出来了，最初还以为是我代理的问题，但是关闭代理后还是会有这个问题，后面在小红书上找到了答案,答案是DNS的问题，更新下DNS就好。\n方法一：直接修改路由器 先去路由器管理页面，一般可以查看路由器背面的地址，上面有写地址和密码。我是小米路由器，管理地址是：192.168.31.1 登录后，去上网设置-DHCP中，设置dns为手动，值为【114.114.114.114】。 在路由器管理页面，重启路由器。\n附上教程地址：http://xhslink.com/HY9PpB 方法二：修改电脑或者手机 如果不知道路由器后台的管理密码，就只能修改手机和电脑的wifi的dns了\n手机：进入wifi管理，ip设置-将DHCP修改为静态ip，然后修改DNS为【114.114.114.114】 电脑：进入【网络和internet设置】，点击【更改适配器选项】，选中你的网卡，右键-点击属性，选择【internet协议版本（tcp/ipv4)】,再修改dns为【114.114.114.114】即可。 ",
   "wordCount" : "10",
@@ -230,8 +221,11 @@
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://fantasyao.github.io/">主页</a>&nbsp;»&nbsp;<a href="https://fantasyao.github.io/posts/">Posts</a></div>
     <h1 class="post-title entry-hint-parent">
-      连接wifi后图片加载缓慢的处理办法
+      image load slow while connect wifi 
     </h1>
+    <div class="post-description">
+      连接wifi后图片加载缓慢
+    </div>
     <div class="post-meta"><span title='2024-02-13 20:18:05 +0800 CST'>2024-02-13</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;Fantasyao
 
 </div>
@@ -340,7 +334,7 @@
   <a class="prev" href="https://fantasyao.github.io/posts/2021%E5%B9%B4%E7%9C%8B%E7%9A%84%E7%94%B5%E5%BD%B1/">
     <span class="title">« 上一页</span>
     <br>
-    <span>2021年看的电影</span>
+    <span>2021 movies</span>
   </a>
   <a class="next" href="https://fantasyao.github.io/posts/new-post/index1/">
     <span class="title">下一页 »</span>
@@ -352,8 +346,8 @@
 
 <ul class="share-buttons">
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share 连接wifi后图片加载缓慢的处理办法 on x"
-            href="https://x.com/intent/tweet/?text=%e8%bf%9e%e6%8e%a5wifi%e5%90%8e%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e7%bc%93%e6%85%a2%e7%9a%84%e5%a4%84%e7%90%86%e5%8a%9e%e6%b3%95&amp;url=https%3a%2f%2ffantasyao.github.io%2fposts%2f%25E8%25BF%259E%25E6%258E%25A5wifi%25E5%2590%258E%25E5%259B%25BE%25E7%2589%2587%25E5%258A%25A0%25E8%25BD%25BD%25E7%25BC%2593%25E6%2585%25A2%2f&amp;hashtags=%e7%bb%8f%e9%aa%8c">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share image load slow while connect wifi  on x"
+            href="https://x.com/intent/tweet/?text=image%20load%20slow%20while%20connect%20wifi%20&amp;url=https%3a%2f%2ffantasyao.github.io%2fposts%2f%25E8%25BF%259E%25E6%258E%25A5wifi%25E5%2590%258E%25E5%259B%25BE%25E7%2589%2587%25E5%258A%25A0%25E8%25BD%25BD%25E7%25BC%2593%25E6%2585%25A2%2f&amp;hashtags=%e7%bb%8f%e9%aa%8c">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
@@ -361,8 +355,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share 连接wifi后图片加载缓慢的处理办法 on telegram"
-            href="https://telegram.me/share/url?text=%e8%bf%9e%e6%8e%a5wifi%e5%90%8e%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e7%bc%93%e6%85%a2%e7%9a%84%e5%a4%84%e7%90%86%e5%8a%9e%e6%b3%95&amp;url=https%3a%2f%2ffantasyao.github.io%2fposts%2f%25E8%25BF%259E%25E6%258E%25A5wifi%25E5%2590%258E%25E5%259B%25BE%25E7%2589%2587%25E5%258A%25A0%25E8%25BD%25BD%25E7%25BC%2593%25E6%2585%25A2%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share image load slow while connect wifi  on telegram"
+            href="https://telegram.me/share/url?text=image%20load%20slow%20while%20connect%20wifi%20&amp;url=https%3a%2f%2ffantasyao.github.io%2fposts%2f%25E8%25BF%259E%25E6%258E%25A5wifi%25E5%2590%258E%25E5%259B%25BE%25E7%2589%2587%25E5%258A%25A0%25E8%25BD%25BD%25E7%25BC%2593%25E6%2585%25A2%2f">
             <svg version="1.1" xml:space="preserve" viewBox="2 2 28 28" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M26.49,29.86H5.5a3.37,3.37,0,0,1-2.47-1,3.35,3.35,0,0,1-1-2.47V5.48A3.36,3.36,0,0,1,3,3,3.37,3.37,0,0,1,5.5,2h21A3.38,3.38,0,0,1,29,3a3.36,3.36,0,0,1,1,2.46V26.37a3.35,3.35,0,0,1-1,2.47A3.38,3.38,0,0,1,26.49,29.86Zm-5.38-6.71a.79.79,0,0,0,.85-.66L24.73,9.24a.55.55,0,0,0-.18-.46.62.62,0,0,0-.41-.17q-.08,0-16.53,6.11a.59.59,0,0,0-.41.59.57.57,0,0,0,.43.52l4,1.24,1.61,4.83a.62.62,0,0,0,.63.43.56.56,0,0,0,.4-.17L16.54,20l4.09,3A.9.9,0,0,0,21.11,23.15ZM13.8,20.71l-1.21-4q8.72-5.55,8.78-5.55c.15,0,.23,0,.23.16a.18.18,0,0,1,0,.06s-2.51,2.3-7.52,6.8Z" />

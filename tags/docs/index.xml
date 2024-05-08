@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on 自由啊</title>
+    <title>Docs on 青云的Blog</title>
     <link>https://fantasyao.github.io/tags/docs/</link>
-    <description>Recent content in Docs on 自由啊</description>
+    <description>Recent content in Docs on 青云的Blog</description>
     <image>
-      <title>自由啊</title>
+      <title>青云的Blog</title>
       <url>https://fantasyao.github.io/images/papermod-cover.png</url>
       <link>https://fantasyao.github.io/images/papermod-cover.png</link>
     </image>
@@ -13,6 +13,13 @@
     <language>zh</language>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fantasyao.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQs / How To&#39;s Guide</title>
+      <link>https://fantasyao.github.io/posts/papermod/papermod-faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fantasyao.github.io/posts/papermod/papermod-faq/</guid>
+      <description>We&amp;rsquo;ll try to answer frequently asked qestions by users.</description>
+    </item>
     <item>
       <title>Features / Mods</title>
       <link>https://fantasyao.github.io/posts/papermod/papermod-features/</link>
@@ -26,6 +33,13 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://fantasyao.github.io/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>前言中的变量</title>
+      <link>https://fantasyao.github.io/posts/papermod/papermod-%E5%8F%98%E9%87%8F/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fantasyao.github.io/posts/papermod/papermod-%E5%8F%98%E9%87%8F/</guid>
+      <description>列出前言中的变量 used by PaperMod</description>
     </item>
   </channel>
 </rss>

@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>markdown on 自由啊</title>
+    <title>markdown on 青云的Blog</title>
     <link>https://fantasyao.github.io/tags/markdown/</link>
-    <description>Recent content in markdown on 自由啊</description>
+    <description>Recent content in markdown on 青云的Blog</description>
     <image>
-      <title>自由啊</title>
+      <title>青云的Blog</title>
       <url>https://fantasyao.github.io/images/papermod-cover.png</url>
       <link>https://fantasyao.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fantasyao.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://fantasyao.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/markdown-syntax/</guid>
-      <description>11Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>https://fantasyao.github.io/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://fantasyao.github.io/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
     <item>
       <title>Rich Content and Shortcodes</title>
       <link>https://fantasyao.github.io/posts/rich-content/</link>
