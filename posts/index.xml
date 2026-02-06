@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 02 Jan 2026 23:29:10 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 23:05:06 +0800</lastBuildDate>
     <atom:link href="https://fantasyao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开发的第一款插件</title>
+      <link>https://fantasyao.github.io/posts/%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Fri, 06 Feb 2026 23:05:06 +0800</pubDate>
+      <guid>https://fantasyao.github.io/posts/%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E6%8F%92%E4%BB%B6/</guid>
+      <description>插件名：prompt-master 特色： 一键搜索、管理你的 AI 提示词，支持全键盘高效操作，对鼠标也友好，支持一键点击复制。
+背景： 闲来无聊，准备拓展下自己的软件库，然后发现了一些优质的提示词，就想找个提示词的管理工具，但是没有找到满意的，因为市面上的很多插件都普遍只支持键盘操作，不太利于一只手用鼠标的情况，所以在AI的帮助下开发了这款对键盘和鼠标都相对友好的插件。
+插件功能 点击扩展图标后，会弹出提示词的管理插口，为卡片式布局。 支持提示词的导入导出，格式为json。 支持记忆窗口最后停留的位置。 使用方法 可直接点击卡片复制提示词。也支持提示词置顶。 键盘方面：点击插件窗口右上角的设置按钮，可直接跳转到快捷键设置页面，然后对「快速打开提示词管理器」配置即可，推荐使用Alt+E。 启动插件后，默认激活搜索功能，此时搜索后，按下Tab/Enter，即可跳转到卡片区域，然后按tab/方向键切换卡片。 在卡片区域时，可以按下Enter，快速复制卡片内容。 安装方法： 插件地址： https://github.com/fantasyao/prompt-master
+下载release页的「prompt master.zip」压缩包到本地，解压。 开启浏览器扩展程序页的「开发者模式」
+补充下：数据都保存在本地，请定时备份数据。</description>
+    </item>
     <item>
       <title>2026年的书影音记录</title>
       <link>https://fantasyao.github.io/posts/2026%E5%B9%B4%E7%9A%84%E4%B9%A6%E5%BD%B1%E9%9F%B3%E8%AE%B0%E5%BD%95/</link>
