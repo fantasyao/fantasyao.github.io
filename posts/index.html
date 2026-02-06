@@ -190,7 +190,23 @@ body {
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">开发的第一款插件
+    <h2 class="entry-hint-parent">让obsidian和hugo同时都能看到图片
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>背景： 由于hugo的图片路径渲染方式和obsidian不同 具体表现为： obsidian 是直接从项目根目录的路径开始算，比如：![](static/img/《阿凡达3.火与烬》.webp) 这么写就能在obsidian上查看。
+hugo 由于我使用的是 paper-mod，这个主题，它的图片是放在 static/img 路径下，但写的时候就只需要写 img 前缀就可以了，比如：![](/img/《阿凡达3.火与烬》.webp) 但是一旦写成 ![](/img/《阿凡达3.火与烬》.webp) 这种方式，就会导致在obsidian上渲染不出来图片。这两个读取的不一致就会导致图片要不就是只能在 hugo 上面查看，要不就是只能在 obsidian 上面查看，只能二选一，没办法两全其美。
+解决方法： 最近问了一下 Gemini，发现可以有解决办法：
+在项目根目录的 layouts/_default/_markup/render-image.html 目录下，添加文件： 比如我的目录就是：S:\Hugo\myBlog\layouts\_default\_markup\render-image.html 如果没有该文件，就自己新建一个就好。 新建好文件后，就把下面的代码内容完整地复制剪贴进去，保存一下，然后重启一下Hugo的服务就好
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 {{- $src := .Destination -}} {{- /* 1. 去掉 static/ 前缀 */ -}} {{- if strings....</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-02-07 01:45:28 +0800 CST'>2026-02-07</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;青云</footer>
+  <a class="entry-link" aria-label="post link to 让obsidian和hugo同时都能看到图片" href="https://fantasyao.github.io/posts/%E8%AE%A9obsidian%E5%92%8Chugo%E5%90%8C%E6%97%B6%E9%83%BD%E8%83%BD%E7%9C%8B%E5%88%B0%E5%9B%BE%E7%89%87/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">开发的第一款插件-易用的提示词管理
     </h2>
   </header>
   <div class="entry-content">
@@ -201,7 +217,7 @@ body {
 补充下：数据都保存在本地，请定时备份数据。</p>
   </div>
   <footer class="entry-footer"><span title='2026-02-06 23:05:06 +0800 CST'>2026-02-06</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;青云</footer>
-  <a class="entry-link" aria-label="post link to 开发的第一款插件" href="https://fantasyao.github.io/posts/%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E6%8F%92%E4%BB%B6/"></a>
+  <a class="entry-link" aria-label="post link to 开发的第一款插件-易用的提示词管理" href="https://fantasyao.github.io/posts/%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E6%8F%92%E4%BB%B6/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -210,7 +226,7 @@ body {
     </h2>
   </header>
   <div class="entry-content">
-    <p>2026年的书影音记录~</p>
+    <p>2026年的书影音记录~更新到2月</p>
   </div>
   <footer class="entry-footer"><span title='2026-01-02 23:29:10 +0800 CST'>2026-01-02</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;青云</footer>
   <a class="entry-link" aria-label="post link to 2026年的书影音记录" href="https://fantasyao.github.io/posts/2026%E5%B9%B4%E7%9A%84%E4%B9%A6%E5%BD%B1%E9%9F%B3%E8%AE%B0%E5%BD%95/"></a>
@@ -222,7 +238,7 @@ body {
     </h2>
   </header>
   <div class="entry-content">
-    <p>2025年的书影音记录~</p>
+    <p>2025年的书影音记录~已完结</p>
   </div>
   <footer class="entry-footer"><span title='2025-12-31 12:10:42 +0800 CST'>2025-12-31</span>&nbsp;·&nbsp;2 分钟&nbsp;·&nbsp;青云</footer>
   <a class="entry-link" aria-label="post link to 2025年的书影音记录" href="https://fantasyao.github.io/posts/2025%E5%B9%B4%E7%9A%84%E4%B9%A6%E5%BD%B1%E9%9F%B3%E8%AE%B0%E5%BD%95/"></a>
@@ -255,23 +271,6 @@ body {
   </div>
   <footer class="entry-footer"><span title='2025-09-14 14:36:06 +0800 CST'>2025-09-14</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;青云</footer>
   <a class="entry-link" aria-label="post link to 天鹅林场游记" href="https://fantasyao.github.io/posts/%E5%A4%A9%E9%B9%85%E6%9E%97%E5%9C%BA%E6%B8%B8%E8%AE%B0/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">九顶山游记
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>《九顶山游记》 昨天去“爬”了九顶山，特色是山顶的黑龙池和高山杜鹃花。 早上6点起床，坐大巴，旁边的男生中指骨折，包扎后变成了🖕的形状（感觉骂人还怪方便的，手举起来就行）。但是结果他爬得比我快多了！
-8:50到了服务区，隔壁座位的女生买了特产车厘子开始吃。 然后开始上山。 ​山路非常绕，陆续有人开始呕吐，我也不禁有点晕，环顾一下周围，隔壁座位的女生佝偻着，原本装车厘子的袋子，也变成了鲜红的车厘子汁。
-最后几分钟我也差点顶不住了，就死死靠着座位，让头不要乱晃，然后剧烈腹式呼吸（最近刚学到的）终于熬到了下车。
-下车，3000海拔，有大雾，走5分钟心脏就咚咚打鼓，我就得歇歇。走着走着，路的坡度就从5度变成了50度。路也是越走越烂，泥土也变成了小时候田里面的那种，我真想不爬了原地玩泥巴算逑。 从11:26爬到了12:30, 终于到了第一个平地，领队说后面还有2/3, 更难爬，这时有一个女生说她爬够了不打算继续往上了，我：诶！太好了，我不是第一个退出的了！
-然后就跟着她和另外一个也明智决定退出的阿姨一起爬下山。 后面到了山下去看了另外一个景点—白龙池 ​ ​然后就在山下烤了3小时的火，跟我们一起下山的阿姨61岁了，四姑娘山和峨眉山都爬成功了，没想到今日折损在九顶山。最后大家一致决定，这次是彻底爬够了，接下来这一年都甭爬啥山了。 中途还聊到费用，大家各种渠道，美团啊抖音啊都是98-108, 就我下单的这个公众号是148，我：。。。。。（后面自然也收藏了她们的购买方式）
-​回去的路上也颠簸，都在吐，而且有个人是本来自己没晕车，但是听到我后面的那个人吐得哇哇地，声音过于有感染力，把他听得也吐了。 ​ ​最后，大家一定出门一定要带一双一次性拖鞋，不然坐车真的浑身难受。</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-02 19:52:08 +0800 CST'>2025-06-02</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;青云</footer>
-  <a class="entry-link" aria-label="post link to 九顶山游记" href="https://fantasyao.github.io/posts/%E4%B9%9D%E9%A1%B6%E5%B1%B1%E6%B8%B8%E8%AE%B0/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
